@@ -31,9 +31,13 @@ Something that was hardcoded was the world after setup and it was repetitive. In
 A model that is relatively related to Super Mario Bros is Pacman. This is beacuse in Pacman, if the ghost and Pacman are on the same patch, Pacman will lose a life. Also in Pacman, when Pacman gets a power-up, there is one power-up that is the same as a power-up in Super Mario Bros, invincibility. 
 ## CREDITS AND REFERENCES
 World Maps:
+
 http://www.mariomayhem.com/downloads/mario_game_maps/index.php#Super_Mario_Bros
 
 Pictures:
+
 http://awesomewallpapersblog.com/tag/super-mario-bros/
+
 http://lando5.deviantart.com/art/Mario-Wallpaper-52837909
+
 http://www.mariowiki.com/Super_Mario_Bros.#Characters
